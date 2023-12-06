@@ -50,7 +50,7 @@ inputs:
     default: 'd3d3d3'
 
 runs:
-  using: 'node18'
+  using: 'node16'
   main: 'dist/index.js'
 
 branding:
