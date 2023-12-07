@@ -4,9 +4,6 @@ src/test.ts
 # Dependency directories
 node_modules/
 
-# Built TypeScript Files
-lib/**/*
-
 # Logs
 logs
 *.log
